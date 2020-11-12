@@ -25,7 +25,7 @@
     <!-- Text for button to manually resume all manually paused downloads [CHAR LIMIT=25] -->
     <string name="button_resume_download">Hervatten</string>
     <!-- Text for button to manually manually pause all running downloads [CHAR LIMIT=25] -->
-    <string name="button_pause_download">Pause</string>
+    <string name="button_pause_download">Pauzeren</string>
     <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
     <string name="notif_summary_paused">%d gepauzeerd</string>
 </resources>
