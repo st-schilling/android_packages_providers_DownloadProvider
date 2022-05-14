@@ -25,7 +25,7 @@
     <!-- Text for button to manually resume all manually paused downloads [CHAR LIMIT=25] -->
     <string name="button_resume_download">Jatka</string>
     <!-- Text for button to manually manually pause all running downloads [CHAR LIMIT=25] -->
-    <string name="button_pause_download">Tauko</string>
+    <string name="button_pause_download">Keskeytä</string>
     <!-- Title summarizing paused downloads. [CHAR LIMIT=32] -->
     <string name="notif_summary_paused">%d keskeytetty</string>
 </resources>
